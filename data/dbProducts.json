@@ -1,0 +1,87 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Aguacate Hass",
+            "precio": 69.9,
+            "dcto": 32,
+            "precio_dcto": 56.8
+        },
+        {
+            "id": 2,
+            "nombre": "Limon con semilla",
+            "precio": 39.9,
+            "dcto": 32,
+            "precio_dcto": 26.82
+        },
+        {
+            "id": 3,
+            "nombre": "Tomate",
+            "precio": 32.9,
+            "dcto": 32,
+            "precio_dcto": 21.79 
+        },
+        {
+            "id": 4,
+            "nombre": "Nopal limpio",
+            "precio": 29.9,
+            "dcto": 13,
+            "precio_dcto": 25.8
+        },
+        {
+            "id": 5,
+            "nombre": "Tomate verde sin cascara",
+            "precio": 24.9,
+            "dcto": 8,
+            "precio_dcto": 22.89
+        },
+        {
+            "id": 6,
+            "nombre": "San Rafael pechuga de pavo",
+            "precio": 62.5,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 7,
+            "nombre": "Bimbo Pan Blanco Grande",
+            "precio": 38.9,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 8,
+            "nombre": "Mc Cormik Mayonesa",
+            "precio": 48.5,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 9,
+            "nombre": "Colgate Pasta Dental Triple Familiar 2 U",
+            "precio": 35.5,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 10,
+            "nombre": "Huevos San Juan",
+            "precio": 37.5,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 11,
+            "nombre": "Cafe Juan Valdez",
+            "precio": 40.5,
+            "dcto": 0,
+            "precio_dcto": 0
+        },
+        {
+            "id": 12,
+            "nombre": "Lechuga batavia",
+            "precio": 14.6,
+            "dcto": 20,
+            "precio_dcto": 12.4
+        }   ]
+}
