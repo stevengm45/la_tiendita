@@ -99,9 +99,9 @@
         {
             "id": 13,
             "nombre": "Sandia",
-            "precio": 20.5,
+            "precio": 40.5,
             "dcto": 50,
-            "precio_dcto": 10.25,
+            "precio_dcto": 20.25,
             "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407378/tiendita/patilla_rhrm0v.png"
         }  
     ]
