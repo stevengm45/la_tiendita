@@ -5,83 +5,104 @@
             "nombre": "Aguacate Hass",
             "precio": 69.9,
             "dcto": 32,
-            "precio_dcto": 56.8
+            "precio_dcto": 56.8,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407372/tiendita/aguacate-hass_z71vwc.jpg"
         },
         {
             "id": 2,
             "nombre": "Limon con semilla",
             "precio": 39.9,
             "dcto": 32,
-            "precio_dcto": 26.82
+            "precio_dcto": 26.82,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407372/tiendita/limon_rrwuwa.jpg"
         },
         {
             "id": 3,
             "nombre": "Tomate",
             "precio": 32.9,
             "dcto": 32,
-            "precio_dcto": 21.79 
+            "precio_dcto": 21.79,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407375/tiendita/tomate_vplwzz.jpg"
         },
         {
             "id": 4,
             "nombre": "Nopal limpio",
             "precio": 29.9,
             "dcto": 13,
-            "precio_dcto": 25.8
+            "precio_dcto": 25.8,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407372/tiendita/nopal_r1emw0.jpg"
         },
         {
             "id": 5,
             "nombre": "Tomate verde sin cascara",
             "precio": 24.9,
             "dcto": 8,
-            "precio_dcto": 22.89
+            "precio_dcto": 22.89,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407374/tiendita/tomate-verde_izypdw.jpg"
         },
         {
             "id": 6,
             "nombre": "San Rafael pechuga de pavo",
             "precio": 62.5,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407374/tiendita/pechuga_de_pavo_tvvltp.jpg"
         },
         {
             "id": 7,
             "nombre": "Bimbo Pan Blanco Grande",
             "precio": 38.9,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407373/tiendita/pan_bimbo_vyp78y.jpg"
         },
         {
             "id": 8,
             "nombre": "Mc Cormik Mayonesa",
             "precio": 48.5,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407373/tiendita/mayonesa_jl0t9u.jpg"
         },
         {
             "id": 9,
             "nombre": "Colgate Pasta Dental Triple Familiar 2 U",
             "precio": 35.5,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407373/tiendita/cremadental_bbqrdr.jpg"
         },
         {
             "id": 10,
             "nombre": "Huevos San Juan",
             "precio": 37.5,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407372/tiendita/huevos_lvvxby.jpg"
         },
         {
             "id": 11,
             "nombre": "Cafe Juan Valdez",
             "precio": 40.5,
             "dcto": 0,
-            "precio_dcto": 0
+            "precio_dcto": 0,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407380/tiendita/cafe_ywictw.png"
         },
         {
             "id": 12,
             "nombre": "Lechuga batavia",
             "precio": 14.6,
             "dcto": 20,
-            "precio_dcto": 12.4
-        }   ]
+            "precio_dcto": 12.4,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407372/tiendita/lechuga_tr6wew.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Sandia",
+            "precio": 20.5,
+            "dcto": 50,
+            "precio_dcto": 10.25,
+            "img": "https://res.cloudinary.com/dainl1ric/image/upload/v1647407378/tiendita/patilla_rhrm0v.png"
+        }  
+    ]
 }
